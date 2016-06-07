@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="fr.supdeweb.bracelink.SynchronisationActivity"
+    tools:showIn="@layout/activity_synchronisation"
+    android:orientation="vertical"
+    >
+    <TextView
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:textSize="21sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Synchronisez votre bracelet"
+        android:textColor="#000000"
+        android:padding="25dp"/>
+    <ImageButton
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/roundedbutton"
+        android:src="@drawable/synchro"
+        android:padding="50dp"
+        android:onClick="synchronisation"
+        android:layout_alignParentTop="true"
+        />
+</LinearLayout>

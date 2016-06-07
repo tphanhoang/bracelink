@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single"
+        >
+        <item
+            android:id="@+id/nav_events"
+            android:title="Mes événements"
+            />
+        <item
+            android:id="@+id/nav_cgu"
+            android:title="CGU" />
+        <item
+            android:id="@+id/nav_synchronisation"
+            android:title="Synchroniser un bracelet" />
+    </group>
+
+    <item>
+        <menu>
+            <item
+                android:id="@+id/nav_deconnect"
+                android:title="Déconnection" />
+        </menu>
+    </item>
+
+</menu>
