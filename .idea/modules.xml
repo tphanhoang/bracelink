@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Bracelink_final.iml" filepath="$PROJECT_DIR$/Bracelink_final.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bracelink_def.iml" filepath="$PROJECT_DIR$/bracelink_def.iml" />
     </modules>
   </component>
 </project>

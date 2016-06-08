@@ -19,7 +19,7 @@ public class SynchronisationActivity extends AppCompatActivity {
 
 
     public void synchronisation(View view) {
-        Intent intent = new Intent(this, EventActivity.class);
+        Intent intent = new Intent(this, ListEventsActivity.class);
         startActivity(intent);
     }
 }
