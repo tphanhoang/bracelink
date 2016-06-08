@@ -21,4 +21,5 @@
     </string>
     <string name="title_activity_synchronisation">SynchronisationActivity</string>
     <string name="title_activity_event">EventActivity</string>
+    <string name="title_activity_events">EventsActivity</string>
 </resources>

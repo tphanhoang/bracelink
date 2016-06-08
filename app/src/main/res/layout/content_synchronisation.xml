@@ -21,6 +21,7 @@
         android:layout_height="wrap_content"
         android:text="Synchronisez votre bracelet"
         android:textColor="#000000"
+        android:layout_marginTop="30dp"
         android:padding="25dp"/>
     <ImageButton
         android:layout_gravity="center"

@@ -8,9 +8,6 @@
             android:title="Mes événements"
             />
         <item
-            android:id="@+id/nav_cgu"
-            android:title="CGU" />
-        <item
             android:id="@+id/nav_synchronisation"
             android:title="Synchroniser un bracelet" />
     </group>

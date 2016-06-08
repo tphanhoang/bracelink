@@ -9,4 +9,10 @@
     <color name="grey">#898989</color>
     <color name="lightgrey">#e0e0e0</color>
     <color name="blue">#349ce7</color>
+
+    <color name="grey_filter">#bfbfbf</color>
+    <color name="grey_filter_bar">#b3484848</color>
+    <color name="filter_title">#1b1e26</color>
+    <color name="filter_content">#222531</color>
+    <color name="dismiss">#018675</color>
 </resources>

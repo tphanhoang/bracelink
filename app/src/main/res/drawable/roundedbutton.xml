@@ -2,7 +2,7 @@
 <selector xmlns:android="http://schemas.android.com/apk/res/android">
     <item>
         <layer-list>
-            <item android:top="2dp" android:left="2dp">
+<!--            <item android:top="2dp" android:left="2dp">
                 <shape>
                     <gradient android:angle="270"
                         android:endColor="#33000000" android:startColor="#33BABABA" />
@@ -12,7 +12,7 @@
                         android:topRightRadius="100dp"
                         android:topLeftRadius="100dp"/>
                 </shape>
-            </item>
+            </item>-->
             <item android:right="2dp" android:bottom="2dp">
                 <shape xmlns:android="http://schemas.android.com/apk/res/android"
                     android:shape="rectangle">

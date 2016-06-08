@@ -82,35 +82,28 @@
                         android:layout_width="45dp"
                         android:layout_height="45dp"
                         android:layout_marginRight="6dp"
-                        android:background="@drawable/round"
+                        android:background="@drawable/profile_pic2"
                         />
 
                     <ImageView
                         android:layout_width="45dp"
                         android:layout_height="45dp"
                         android:layout_marginRight="6dp"
-                        android:background="@drawable/round"
+                        android:background="@drawable/profile_pic3"
                         />
 
                     <ImageView
                         android:layout_width="45dp"
                         android:layout_height="45dp"
                         android:layout_marginRight="6dp"
-                        android:background="@drawable/round"
+                        android:background="@drawable/profile_pic4"
                         />
 
                     <ImageView
                         android:layout_width="45dp"
                         android:layout_height="45dp"
                         android:layout_marginRight="6dp"
-                        android:background="@drawable/round"
-                        />
-
-                    <ImageView
-                        android:layout_width="45dp"
-                        android:layout_height="45dp"
-                        android:layout_marginRight="6dp"
-                        android:background="@drawable/round"
+                        android:background="@drawable/profile_pic5"
                         />
 
                 </LinearLayout>
@@ -218,7 +211,7 @@
                             android:layout_width="65dp"
                             android:layout_height="65dp"
                             android:layout_marginRight="10dp"
-                            android:background="@drawable/logo_coca"
+                            android:background="@drawable/logo_uni"
                             />
 
                         <LinearLayout
@@ -231,21 +224,21 @@
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
                                 android:textAppearance="?android:attr/textAppearanceLarge"
-                                android:text="Chef de projet"
+                                android:text="Assistant Chef de projet"
                                 />
 
                             <TextView
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
                                 android:textAppearance="?android:attr/textAppearanceMedium"
-                                android:text="Coca Cola"
+                                android:text="Unilever"
                                 />
 
                             <TextView
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
                                 android:textAppearance="?android:attr/textAppearanceSmall"
-                                android:text="Oct 2013 - Novembre 2014 . 1 ans"
+                                android:text="Oct 2011 - Sept 2013 . 2 ans"
                                 />
 
                         </LinearLayout>
@@ -275,6 +268,19 @@
             </LinearLayout>
 
         </LinearLayout>
+
+        <ImageButton
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:id="@+id/button"
+            android:src="@drawable/arrow_left"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentStart="true"
+            android:background="@null"
+            android:layout_marginTop="15dp"
+            android:layout_marginLeft="15dp"
+            android:onClick="backEvent"
+            />
 
     </RelativeLayout>
 
