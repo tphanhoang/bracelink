@@ -1,6 +1,6 @@
 # bracelink_def
 
-Projet de groupes en collaboration avec : [Aurélien](https://github.com/AurelienBoquet) et [Maxime](https://github.com/Maxwelloff)
+Projet de groupe en collaboration avec : [Aurélien](https://github.com/AurelienBoquet) et [Maxime](https://github.com/Maxwelloff)
 
 Démo d'un Projet d'application android servant en complément d'une présentation.
 
