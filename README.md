@@ -1,4 +1,4 @@
-# bracelink_def
+# bracelink
 
 Projet de groupe en collaboration avec : [Aurélien](https://github.com/AurelienBoquet) et [Maxime](https://github.com/Maxwelloff)
 
